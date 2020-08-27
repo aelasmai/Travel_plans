@@ -1,2 +1,3 @@
 Travel_plans
-Computing and Informatics Capstone Experience Spring 2020
+
+Computing and Informatics Capstone Experience Project: Spring 2020
